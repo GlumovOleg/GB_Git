@@ -9,3 +9,13 @@
 
  >git config --global user.name «Ваше имя англ буквами»
 >git config --global user.email "ваша_почта@example.com"
+
+## Добавление файлов в репозиторий
+
+>git add file_name
+
+* добавляем файл для отслеживвания 
+
+>git commit - m "some massege"
+
+* Фиксирует все файлы, которые мы добавили
