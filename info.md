@@ -2,8 +2,8 @@
 
 ## Скачать Git на Ваше устройство 
 
-* https://git-scm.com/download/win (Windows)
-* https://git-scm.com/download/mac (Mac OS)
+* [Windows](https://git-scm.com/download/win)
+* [Mac OS](https://git-scm.com/download/mac)
 
  # Инструкция по работе с Git
 
